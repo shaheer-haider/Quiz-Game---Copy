@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028755441945",
+    "firebase_url": "https://unityquizgame.firebaseio.com",
+    "project_id": "unityquizgame",
+    "storage_bucket": "unityquizgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028755441945:android:0e5ec54fc4dba464145d88",
+        "android_client_info": {
+          "package_name": "com.floringames.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028755441945-iqcrhva32j452gp0un0be9da55i5oa8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIgYYdC04EhVQ031Y30UDRCHXgrsR8jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028755441945-iqcrhva32j452gp0un0be9da55i5oa8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028755441945-doocsg7t8vbvm1o3r4bis6f00dqe446m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.floringames.quiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
